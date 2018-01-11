@@ -15,7 +15,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Threading;
 using System.Collections;
-using System.Diagnostics;//测试
+using System.Diagnostics;//测试、、修改后第二次上传
 //load以后，check事件发生，add.curve(Vb,V1,V2)。//Vb即程序代码中的V1，V1即代码中的V2，V2即代码中的V3
 # region 按钮或文本name
 

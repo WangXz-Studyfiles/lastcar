@@ -837,3 +837,4 @@ D:\ttt\lastcar\Car\CarProject\obj\Debug\CarProject.NetDisconnect.resources
 D:\ttt\lastcar\Car\CarProject\obj\Debug\CarProject.Properties.Resources.resources
 D:\ttt\lastcar\Car\CarProject\obj\Debug\CarProject.SplashScreen.resources
 D:\ttt\lastcar\Car\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+D:\ttt\lastcar\Car\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
