@@ -1,0 +1,839 @@
+G:\汽车项目\CarProject\CarProject\bin\Debug\CarProject.exe.config
+G:\汽车项目\CarProject\CarProject\bin\Debug\CarProject.exe
+G:\汽车项目\CarProject\CarProject\bin\Debug\CarProject.pdb
+G:\汽车项目\CarProject\CarProject\obj\Debug\CarProject.login.resources
+G:\汽车项目\CarProject\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+G:\汽车项目\CarProject\CarProject\obj\Debug\CarProject.SplashScreen.resources
+G:\汽车项目\CarProject\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+G:\汽车项目\CarProject\CarProject\obj\Debug\CarProject.exe
+G:\汽车项目\CarProject\CarProject\obj\Debug\CarProject.pdb
+G:\汽车项目\CarProject\CarProject\obj\Debug\CarProject.Form1.resources
+G:\汽车项目\CarProject\CarProject\bin\Debug\ZedGraph.dll
+G:\汽车项目\CarProject\CarProject\obj\Debug\CarProject.search_sql.resources
+G:\汽车项目\CarProject\CarProject\obj\Debug\CarProject.H_curve.resources
+G:\汽车项目\CarProject\CarProject\obj\Debug\CarProject.dianzu.resources
+G:\汽车项目\CarProject\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+G:\汽车项目\CarProject1\CarProject\bin\Debug\CarProject.exe.config
+G:\汽车项目\CarProject1\CarProject\obj\Debug\CarProject.exe
+G:\汽车项目\CarProject1\CarProject\obj\Debug\CarProject.pdb
+G:\汽车项目\CarProject1\CarProject\bin\Debug\CarProject.exe
+G:\汽车项目\CarProject1\CarProject\bin\Debug\CarProject.pdb
+G:\汽车项目\CarProject1\CarProject\bin\Debug\ZedGraph.dll
+G:\汽车项目\CarProject1\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+G:\汽车项目\CarProject1\CarProject\obj\Debug\CarProject.dianzu.resources
+G:\汽车项目\CarProject1\CarProject\obj\Debug\CarProject.Form1.resources
+G:\汽车项目\CarProject1\CarProject\obj\Debug\CarProject.H_curve.resources
+G:\汽车项目\CarProject1\CarProject\obj\Debug\CarProject.login.resources
+G:\汽车项目\CarProject1\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+G:\汽车项目\CarProject1\CarProject\obj\Debug\CarProject.search_sql.resources
+G:\汽车项目\CarProject1\CarProject\obj\Debug\CarProject.SplashScreen.resources
+G:\汽车项目\CarProject1\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+G:\汽车项目\CarProject1\CarProject\obj\Debug\CarProject.Power.resources
+G:\汽车项目\CarProject2\CarProject\bin\Debug\CarProject.exe.config
+G:\汽车项目\CarProject2\CarProject\obj\Debug\CarProject.exe
+G:\汽车项目\CarProject2\CarProject\obj\Debug\CarProject.pdb
+G:\汽车项目\CarProject2\CarProject\bin\Debug\CarProject.exe
+G:\汽车项目\CarProject2\CarProject\bin\Debug\CarProject.pdb
+G:\汽车项目\CarProject2\CarProject\bin\Debug\ZedGraph.dll
+G:\汽车项目\CarProject2\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+G:\汽车项目\CarProject2\CarProject\obj\Debug\CarProject.dianzu.resources
+G:\汽车项目\CarProject2\CarProject\obj\Debug\CarProject.Form1.resources
+G:\汽车项目\CarProject2\CarProject\obj\Debug\CarProject.H_curve.resources
+G:\汽车项目\CarProject2\CarProject\obj\Debug\CarProject.login.resources
+G:\汽车项目\CarProject2\CarProject\obj\Debug\CarProject.Power.resources
+G:\汽车项目\CarProject2\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+G:\汽车项目\CarProject2\CarProject\obj\Debug\CarProject.search_sql.resources
+G:\汽车项目\CarProject2\CarProject\obj\Debug\CarProject.SplashScreen.resources
+G:\汽车项目\CarProject2\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+G:\汽车项目\CarProject3\CarProject\bin\Debug\CarProject.exe.config
+G:\汽车项目\CarProject3\CarProject\obj\Debug\CarProject.exe
+G:\汽车项目\CarProject3\CarProject\obj\Debug\CarProject.pdb
+G:\汽车项目\CarProject3\CarProject\bin\Debug\CarProject.exe
+G:\汽车项目\CarProject3\CarProject\bin\Debug\CarProject.pdb
+G:\汽车项目\CarProject3\CarProject\bin\Debug\ZedGraph.dll
+G:\汽车项目\CarProject3\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+G:\汽车项目\CarProject3\CarProject\obj\Debug\CarProject.dianzu.resources
+G:\汽车项目\CarProject3\CarProject\obj\Debug\CarProject.Form1.resources
+G:\汽车项目\CarProject3\CarProject\obj\Debug\CarProject.H_curve.resources
+G:\汽车项目\CarProject3\CarProject\obj\Debug\CarProject.login.resources
+G:\汽车项目\CarProject3\CarProject\obj\Debug\CarProject.Power.resources
+G:\汽车项目\CarProject3\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+G:\汽车项目\CarProject3\CarProject\obj\Debug\CarProject.search_sql.resources
+G:\汽车项目\CarProject3\CarProject\obj\Debug\CarProject.SplashScreen.resources
+G:\汽车项目\CarProject3\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+G:\小测试\CarProject存2000字节成功\CarProject\CarProject\bin\Debug\CarProject.exe.config
+G:\小测试\CarProject存2000字节成功\CarProject\CarProject\obj\Debug\CarProject.exe
+G:\小测试\CarProject存2000字节成功\CarProject\CarProject\obj\Debug\CarProject.pdb
+G:\小测试\CarProject存2000字节成功\CarProject\CarProject\bin\Debug\CarProject.exe
+G:\小测试\CarProject存2000字节成功\CarProject\CarProject\bin\Debug\CarProject.pdb
+G:\小测试\CarProject存2000字节成功\CarProject\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+G:\小测试\CarProject存2000字节成功\CarProject\CarProject\obj\Debug\CarProject.dianzu.resources
+G:\小测试\CarProject存2000字节成功\CarProject\CarProject\obj\Debug\CarProject.Form1.resources
+G:\小测试\CarProject存2000字节成功\CarProject\CarProject\obj\Debug\CarProject.H_curve.resources
+G:\小测试\CarProject存2000字节成功\CarProject\CarProject\obj\Debug\CarProject.login.resources
+G:\小测试\CarProject存2000字节成功\CarProject\CarProject\obj\Debug\CarProject.Power.resources
+G:\小测试\CarProject存2000字节成功\CarProject\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+G:\小测试\CarProject存2000字节成功\CarProject\CarProject\obj\Debug\CarProject.search_sql.resources
+G:\小测试\CarProject存2000字节成功\CarProject\CarProject\obj\Debug\CarProject.SplashScreen.resources
+G:\小测试\CarProject存2000字节成功\CarProject\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+G:\小测试\CarProject9月8号\CarProject\CarProject\bin\Debug\CarProject.exe.config
+G:\小测试\CarProject9月8号\CarProject\CarProject\obj\Debug\CarProject.exe
+G:\小测试\CarProject9月8号\CarProject\CarProject\obj\Debug\CarProject.pdb
+G:\小测试\CarProject9月8号\CarProject\CarProject\bin\Debug\CarProject.exe
+G:\小测试\CarProject9月8号\CarProject\CarProject\bin\Debug\CarProject.pdb
+G:\小测试\CarProject9月8号\CarProject\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+G:\小测试\CarProject9月8号\CarProject\CarProject\obj\Debug\CarProject.dianzu.resources
+G:\小测试\CarProject9月8号\CarProject\CarProject\obj\Debug\CarProject.Form1.resources
+G:\小测试\CarProject9月8号\CarProject\CarProject\obj\Debug\CarProject.H_curve.resources
+G:\小测试\CarProject9月8号\CarProject\CarProject\obj\Debug\CarProject.login.resources
+G:\小测试\CarProject9月8号\CarProject\CarProject\obj\Debug\CarProject.Power.resources
+G:\小测试\CarProject9月8号\CarProject\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+G:\小测试\CarProject9月8号\CarProject\CarProject\obj\Debug\CarProject.search_sql.resources
+G:\小测试\CarProject9月8号\CarProject\CarProject\obj\Debug\CarProject.SplashScreen.resources
+G:\小测试\CarProject9月8号\CarProject\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+G:\小测试\CarProject\CarProject\CarProject\bin\Debug\CarProject.exe.config
+G:\小测试\CarProject\CarProject\CarProject\obj\Debug\CarProject.exe
+G:\小测试\CarProject\CarProject\CarProject\obj\Debug\CarProject.pdb
+G:\小测试\CarProject\CarProject\CarProject\bin\Debug\CarProject.exe
+G:\小测试\CarProject\CarProject\CarProject\bin\Debug\CarProject.pdb
+G:\小测试\CarProject\CarProject\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+G:\小测试\CarProject\CarProject\CarProject\obj\Debug\CarProject.dianzu.resources
+G:\小测试\CarProject\CarProject\CarProject\obj\Debug\CarProject.Form1.resources
+G:\小测试\CarProject\CarProject\CarProject\obj\Debug\CarProject.H_curve.resources
+G:\小测试\CarProject\CarProject\CarProject\obj\Debug\CarProject.login.resources
+G:\小测试\CarProject\CarProject\CarProject\obj\Debug\CarProject.Power.resources
+G:\小测试\CarProject\CarProject\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+G:\小测试\CarProject\CarProject\CarProject\obj\Debug\CarProject.SplashScreen.resources
+G:\小测试\CarProject\CarProject\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+G:\小测试\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\bin\Debug\CarProject.exe.config
+G:\小测试\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.exe
+G:\小测试\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.pdb
+G:\小测试\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\bin\Debug\CarProject.exe
+G:\小测试\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\bin\Debug\CarProject.pdb
+G:\小测试\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+G:\小测试\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.dianzu.resources
+G:\小测试\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.Form1.resources
+G:\小测试\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.H_curve.resources
+G:\小测试\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.login.resources
+G:\小测试\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.Power.resources
+G:\小测试\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+G:\小测试\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.SplashScreen.resources
+G:\小测试\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+D:\刘梦Car\CarProject9月10日测试2000成功\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\bin\Debug\CarProject.exe.config
+D:\刘梦Car\CarProject9月10日测试2000成功\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.exe
+D:\刘梦Car\CarProject9月10日测试2000成功\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.pdb
+D:\刘梦Car\CarProject9月10日测试2000成功\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\bin\Debug\CarProject.exe
+D:\刘梦Car\CarProject9月10日测试2000成功\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\bin\Debug\CarProject.pdb
+D:\刘梦Car\CarProject9月10日测试2000成功\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\ResolveAssemblyReference.cache
+D:\刘梦Car\CarProject9月10日测试2000成功\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.dianzu.resources
+D:\刘梦Car\CarProject9月10日测试2000成功\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.Form1.resources
+D:\刘梦Car\CarProject9月10日测试2000成功\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.H_curve.resources
+D:\刘梦Car\CarProject9月10日测试2000成功\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.login.resources
+D:\刘梦Car\CarProject9月10日测试2000成功\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.Power.resources
+D:\刘梦Car\CarProject9月10日测试2000成功\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+D:\刘梦Car\CarProject9月10日测试2000成功\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\CarProject.SplashScreen.resources
+D:\刘梦Car\CarProject9月10日测试2000成功\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\刘梦Car\CarProject9月10日测试2000成功\CarProject9月10日测试2000成功\CarProject\CarProject\CarProject\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\wxz\CarProject\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\wxz\CarProject\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\wxz\CarProject\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\wxz\CarProject\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\wxz\CarProject\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\wxz\CarProject\CarProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\wxz\CarProject\CarProject\obj\Debug\CarProject.dianzu.resources
+C:\Users\Administrator\Desktop\wxz\CarProject\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\wxz\CarProject\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\wxz\CarProject\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\wxz\CarProject\CarProject\obj\Debug\CarProject.Power.resources
+C:\Users\Administrator\Desktop\wxz\CarProject\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wxz\CarProject\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\wxz\CarProject\CarProject\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\wxz\CarProject\CarProject\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\wxz\CarProject\CarProject\obj\Debug\CarProject.Res.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - WXZ\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\wxz\CarProject - WXZ\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\wxz\CarProject - WXZ\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\wxz\CarProject - WXZ\CarProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\wxz\CarProject - WXZ\CarProject\obj\Debug\CarProject.dianzu.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - WXZ\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - WXZ\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - WXZ\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - WXZ\CarProject\obj\Debug\CarProject.Power.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - WXZ\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - WXZ\CarProject\obj\Debug\CarProject.Res.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - WXZ\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - WXZ\CarProject\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\wxz\CarProject - WXZ\CarProject\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\wxz\CarProject - WXZ\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\wxz\CarProject - WXZ\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\wxz\CarProject - R\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\wxz\CarProject - R\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\wxz\CarProject - R\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\wxz\CarProject - R\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\wxz\CarProject - R\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\wxz\CarProject - R\CarProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\wxz\CarProject - R\CarProject\obj\Debug\CarProject.dianzu.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - R\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - R\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - R\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - R\CarProject\obj\Debug\CarProject.Power.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - R\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - R\CarProject\obj\Debug\CarProject.Res.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - R\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - R\CarProject\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\wxz\CarProject - R\CarProject\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\wxz\CarProject - 919上午\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\wxz\CarProject - 919上午\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\wxz\CarProject - 919上午\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\wxz\CarProject - 919上午\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\wxz\CarProject - 919上午\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\wxz\CarProject - 919上午\CarProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\wxz\CarProject - 919上午\CarProject\obj\Debug\CarProject.dianzu.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - 919上午\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - 919上午\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - 919上午\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - 919上午\CarProject\obj\Debug\CarProject.Power.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - 919上午\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - 919上午\CarProject\obj\Debug\CarProject.Res.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - 919上午\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\wxz\CarProject - 919上午\CarProject\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\wxz\CarProject - 919上午\CarProject\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\CarProject - 919上午\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\CarProject - 919上午\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\CarProject - 919上午\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\CarProject - 919上午\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\CarProject - 919上午\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\CarProject - 919上午\CarProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CarProject - 919上午\CarProject\obj\Debug\CarProject.dianzu.resources
+C:\Users\Administrator\Desktop\CarProject - 919上午\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\CarProject - 919上午\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\CarProject - 919上午\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\CarProject - 919上午\CarProject\obj\Debug\CarProject.Power.resources
+C:\Users\Administrator\Desktop\CarProject - 919上午\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CarProject - 919上午\CarProject\obj\Debug\CarProject.Res.resources
+C:\Users\Administrator\Desktop\CarProject - 919上午\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\CarProject - 919上午\CarProject\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\CarProject - 919上午\CarProject\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\CarProject - 新wifi\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\CarProject - 新wifi\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\CarProject - 新wifi\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\CarProject - 新wifi\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\CarProject - 新wifi\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\CarProject - 新wifi\CarProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CarProject - 新wifi\CarProject\obj\Debug\CarProject.dianzu.resources
+C:\Users\Administrator\Desktop\CarProject - 新wifi\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\CarProject - 新wifi\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\CarProject - 新wifi\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\CarProject - 新wifi\CarProject\obj\Debug\CarProject.Power.resources
+C:\Users\Administrator\Desktop\CarProject - 新wifi\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CarProject - 新wifi\CarProject\obj\Debug\CarProject.Res.resources
+C:\Users\Administrator\Desktop\CarProject - 新wifi\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\CarProject - 新wifi\CarProject\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\CarProject - 新wifi\CarProject\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi\CarProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi\CarProject\obj\Debug\CarProject.dianzu.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi\CarProject\obj\Debug\CarProject.Power.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi\CarProject\obj\Debug\CarProject.Res.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi\CarProject\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi\CarProject\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi -新修改\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi -新修改\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi -新修改\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi -新修改\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi -新修改\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi -新修改\CarProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi -新修改\CarProject\obj\Debug\CarProject.dianzu.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi -新修改\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi -新修改\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi -新修改\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi -新修改\CarProject\obj\Debug\CarProject.Power.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi -新修改\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi -新修改\CarProject\obj\Debug\CarProject.Res.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi -新修改\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi -新修改\CarProject\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi -新修改\CarProject\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi --历史曲线\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi --历史曲线\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi --历史曲线\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.dianzu.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.Power.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.Res.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\汽车屏幕与PC\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\CarProject - 新wifi --历史曲线\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\CarProject - 新wifi --历史曲线\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\CarProject - 新wifi --历史曲线\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.dianzu.resources
+C:\Users\Administrator\Desktop\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.Power.resources
+C:\Users\Administrator\Desktop\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.Res.resources
+C:\Users\Administrator\Desktop\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\CarProject - 新wifi --历史曲线\CarProject\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统\CarProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统\CarProject\obj\Debug\CarProject.dianzu.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统\CarProject\obj\Debug\CarProject.Power.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统\CarProject\obj\Debug\CarProject.Res.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统\CarProject\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统\CarProject\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\PC与串口屏\电动车碰撞数据采集系统PC\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\PC与串口屏\电动车碰撞数据采集系统PC\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\PC与串口屏\电动车碰撞数据采集系统PC\CarProject\obj\Debug\CarProject.pdb
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC\CarProject\bin\Debug\CarProject.exe.config
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC\CarProject\obj\Debug\CarProject.exe
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC\CarProject\obj\Debug\CarProject.pdb
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC - 副本\CarProject\bin\Debug\CarProject.exe.config
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC - 副本\CarProject\obj\Debug\CarProject.exe
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC - 副本\CarProject\obj\Debug\CarProject.pdb
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC - 副本\CarProject\bin\Debug\CarProject.exe
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC - 副本\CarProject\bin\Debug\CarProject.pdb
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC - 副本\CarProject\obj\Debug\ResolveAssemblyReference.cache
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC - 副本\CarProject\obj\Debug\CarProject.dianzu.resources
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC - 副本\CarProject\obj\Debug\CarProject.Form1.resources
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC - 副本\CarProject\obj\Debug\CarProject.H_curve.resources
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC - 副本\CarProject\obj\Debug\CarProject.login.resources
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC - 副本\CarProject\obj\Debug\CarProject.Power.resources
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC - 副本\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC - 副本\CarProject\obj\Debug\CarProject.Res.resources
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC - 副本\CarProject\obj\Debug\CarProject.SplashScreen.resources
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC - 副本\CarProject\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\研二工程\汽车项目全部资料\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC - 副本\CarProject\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\研二工程\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC -10-12\CarProject\bin\Debug\CarProject.exe.config
+D:\研二工程\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC -10-12\CarProject\obj\Debug\CarProject.exe
+D:\研二工程\2017-10-7电动车数据采集\PC与串口屏\电动车碰撞数据采集系统PC -10-12\CarProject\obj\Debug\CarProject.pdb
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12\CarProject\bin\Debug\CarProject.exe.config
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12\CarProject\obj\Debug\CarProject.exe
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12\CarProject\obj\Debug\CarProject.pdb
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12 - 非精简\CarProject\bin\Debug\CarProject.exe.config
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12 - 非精简\CarProject\obj\Debug\CarProject.exe
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12 - 非精简\CarProject\obj\Debug\CarProject.pdb
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12 - 非精简\CarProject\bin\Debug\CarProject.exe
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12 - 非精简\CarProject\bin\Debug\CarProject.pdb
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12 - 非精简\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12 - 非精简\CarProject\obj\Debug\CarProject.dianzu.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12 - 非精简\CarProject\obj\Debug\CarProject.Form1.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12 - 非精简\CarProject\obj\Debug\CarProject.H_curve.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12 - 非精简\CarProject\obj\Debug\CarProject.login.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12 - 非精简\CarProject\obj\Debug\CarProject.Power.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12 - 非精简\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12 - 非精简\CarProject\obj\Debug\CarProject.Res.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12 - 非精简\CarProject\obj\Debug\CarProject.SplashScreen.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-12 - 非精简\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13\CarProject\bin\Debug\CarProject.exe.config
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13\CarProject\obj\Debug\CarProject.exe
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13\CarProject\obj\Debug\CarProject.pdb
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13\CarProject\bin\Debug\CarProject.exe
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13\CarProject\bin\Debug\CarProject.pdb
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13\CarProject\obj\Debug\CarProject.dianzu.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13\CarProject\obj\Debug\CarProject.Form1.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13\CarProject\obj\Debug\CarProject.H_curve.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13\CarProject\obj\Debug\CarProject.login.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13\CarProject\obj\Debug\CarProject.Power.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13\CarProject\obj\Debug\CarProject.Res.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13\CarProject\obj\Debug\CarProject.SplashScreen.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13-非精简\CarProject\bin\Debug\CarProject.exe.config
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13-非精简\CarProject\obj\Debug\CarProject.exe
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13-非精简\CarProject\obj\Debug\CarProject.pdb
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13-精简\CarProject\bin\Debug\CarProject.exe.config
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.exe
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.pdb
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13-精简\CarProject\bin\Debug\CarProject.exe
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13-精简\CarProject\bin\Debug\CarProject.pdb
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.Form1.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.H_curve.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.login.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.SplashScreen.resources
+D:\研二工程\2017-10-12电动车碰撞系统\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+D:\研二工程\襄阳汽车碰撞项目2017-10-14\汽车项目全部资料\电动车碰撞数据采集系统PC -10-13-精简\CarProject\bin\Debug\CarProject.exe.config
+D:\研二工程\襄阳汽车碰撞项目2017-10-14\汽车项目全部资料\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.exe
+D:\研二工程\襄阳汽车碰撞项目2017-10-14\汽车项目全部资料\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.pdb
+D:\研二工程\襄阳汽车碰撞项目2017-10-14\汽车项目全部资料\电动车碰撞数据采集系统PC -10-13-精简\CarProject\bin\Debug\CarProject.exe
+D:\研二工程\襄阳汽车碰撞项目2017-10-14\汽车项目全部资料\电动车碰撞数据采集系统PC -10-13-精简\CarProject\bin\Debug\CarProject.pdb
+D:\研二工程\襄阳汽车碰撞项目2017-10-14\汽车项目全部资料\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+D:\研二工程\襄阳汽车碰撞项目2017-10-14\汽车项目全部资料\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.Form1.resources
+D:\研二工程\襄阳汽车碰撞项目2017-10-14\汽车项目全部资料\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.H_curve.resources
+D:\研二工程\襄阳汽车碰撞项目2017-10-14\汽车项目全部资料\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.login.resources
+D:\研二工程\襄阳汽车碰撞项目2017-10-14\汽车项目全部资料\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+D:\研二工程\襄阳汽车碰撞项目2017-10-14\汽车项目全部资料\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.SplashScreen.resources
+D:\研二工程\襄阳汽车碰撞项目2017-10-14\汽车项目全部资料\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简 - 副本\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简 - 副本\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简 - 副本\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简 - 副本\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简 - 副本\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简 - 副本\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简 - 副本\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简 - 副本\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简 - 副本\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简 - 副本\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简 - 副本\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-13-精简 - 副本\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18 - 副本\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18 - 副本\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18 - 副本\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18 - 副本\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18 - 副本\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18 - 副本\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18 - 副本\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18 - 副本\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18 - 副本\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18 - 副本\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18 - 副本\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC -10-18 - 副本\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开10-22\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开10-22\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开10-22\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开10-22\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开10-22\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开10-22\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开10-22\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开10-22\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开10-22\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开10-22\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开10-22\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\电动车碰撞数据采集系统PC 能量放开10-22\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\扫描联网\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\扫描联网\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\扫描联网\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\扫描联网\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\扫描联网\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\扫描联网\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\扫描联网\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\扫描联网\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\扫描联网\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\扫描联网\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\扫描联网\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\扫描联网\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\定时扫描联网\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\定时扫描联网\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\定时扫描联网\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\定时扫描联网\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\定时扫描联网\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\定时扫描联网\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\定时扫描联网\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\定时扫描联网\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\定时扫描联网\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\定时扫描联网\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\定时扫描联网\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\定时扫描联网\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\定时扫描联网\CarProject\obj\Debug\CarProject.NetConnect.resources
+C:\Users\Administrator\Desktop\定时扫描联网\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23整理\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23整理\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23整理\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23整理\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23整理\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23整理\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23整理\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23整理\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23整理\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23整理\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23整理\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23整理\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23整理\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23精简\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23精简\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23精简\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 10-23精简\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 10-23精简\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 10-23精简\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 10-23精简\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 11-23\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 11-23\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 11-23\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 11-23\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 11-23\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 11-23\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 11-23\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 11-23\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 11-23\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 11-23\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 11-23\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 11-23\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\出差后修改\定时扫描联网 - 11-23\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\定时扫描联网 - 11-23\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\定时扫描联网 - 11-23\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\定时扫描联网 - 11-23\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\定时扫描联网 - 11-25\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\定时扫描联网 - 11-25\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\定时扫描联网 - 11-25\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\定时扫描联网 - 11-25\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\定时扫描联网 - 11-25\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\定时扫描联网 - 11-25\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\定时扫描联网 - 11-25\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 11-25\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 11-25\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 11-25\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 11-25\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 11-25\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\定时扫描联网 - 11-25\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25 拖拽\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25 拖拽\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25 拖拽\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25 拖拽\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25 拖拽\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25 拖拽\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25 拖拽\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25 拖拽\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25 拖拽\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25 拖拽\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25 拖拽\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25 拖拽\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-25 拖拽\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 拖拽 -\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 拖拽 -\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 拖拽 -\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 拖拽 -\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 拖拽 -\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 拖拽 -\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 拖拽 -\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 拖拽 -\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 拖拽 -\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 拖拽 -\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 拖拽 -\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 拖拽 -\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 拖拽 -\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 电阻\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 电阻\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 电阻\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 电阻\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 电阻\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 电阻\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 电阻\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 电阻\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 电阻\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 电阻\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 电阻\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 电阻\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-26 电阻\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-27优化前一秒\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-27优化前一秒\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-27优化前一秒\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞大彩与PC11-26\汽车碰撞上位机- 11-27优化前一秒\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车碰撞大彩与PC11-26\汽车碰撞上位机- 11-27优化前一秒\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞大彩与PC11-26\汽车碰撞上位机- 11-27优化前一秒\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞大彩与PC11-26\汽车碰撞上位机- 11-27优化前一秒\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞大彩与PC11-26\汽车碰撞上位机- 11-27优化前一秒\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞大彩与PC11-26\汽车碰撞上位机- 11-27优化前一秒\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车碰撞大彩与PC11-26\汽车碰撞上位机- 11-27优化前一秒\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车碰撞大彩与PC11-26\汽车碰撞上位机- 11-27优化前一秒\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车碰撞大彩与PC11-26\汽车碰撞上位机- 11-27优化前一秒\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\汽车碰撞大彩与PC11-26\汽车碰撞上位机- 11-27优化前一秒\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车碰撞大彩与PC11-26\汽车碰撞上位机- 11-27优化前一秒\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车碰撞大彩与PC11-26\汽车碰撞上位机- 11-27优化前一秒\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 - 副本\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 - 副本\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 - 副本\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 - 副本\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 - 副本\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 - 副本\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 - 副本\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 - 副本\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 - 副本\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 - 副本\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 - 副本\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 - 副本\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 - 副本\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-28 -同步异步 - 按钮 -时间\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-28 最终\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-28 最终\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-28 最终\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-29最简化\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-29最简化\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-29最简化\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\Last汽车\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-29最简化\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-29最简化\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-29最简化\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-29最简化\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-30\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-30\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-30\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-30\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-30\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-30\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-30\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-30\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-30\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-30\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-30\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 11-30\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb - 副本\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb - 副本\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb - 副本\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb - 副本\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb - 副本\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb - 副本\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb - 副本\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb - 副本\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb - 副本\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb - 副本\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb - 副本\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\12-3襄阳修改\汽车碰撞上位机- 12-1 - 修改Vb - 副本\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+I:\汽车碰撞上位机- 12-3 - 修改历史曲线\CarProject\bin\Debug\CarProject.exe.config
+I:\汽车碰撞上位机- 12-3 - 修改历史曲线\CarProject\obj\Debug\CarProject.exe
+I:\汽车碰撞上位机- 12-3 - 修改历史曲线\CarProject\obj\Debug\CarProject.pdb
+I:\汽车碰撞上位机- 12-3 - 修改历史曲线\CarProject\bin\Debug\CarProject.exe
+I:\汽车碰撞上位机- 12-3 - 修改历史曲线\CarProject\bin\Debug\CarProject.pdb
+I:\汽车碰撞上位机- 12-3 - 修改历史曲线\CarProject\obj\Debug\CarProject.Form1.resources
+I:\汽车碰撞上位机- 12-3 - 修改历史曲线\CarProject\obj\Debug\CarProject.H_curve.resources
+I:\汽车碰撞上位机- 12-3 - 修改历史曲线\CarProject\obj\Debug\CarProject.login.resources
+I:\汽车碰撞上位机- 12-3 - 修改历史曲线\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+I:\汽车碰撞上位机- 12-3 - 修改历史曲线\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+I:\汽车碰撞上位机- 12-3 - 修改历史曲线\CarProject\obj\Debug\CarProject.SplashScreen.resources
+I:\汽车碰撞上位机- 12-3 - 修改历史曲线\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\襄阳最终12-4\汽车碰撞上位机- 12-3 - 修改历史曲线\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\襄阳最终12-4\汽车碰撞上位机- 12-3 - 修改历史曲线\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\襄阳最终12-4\汽车碰撞上位机- 12-3 - 修改历史曲线\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-19\CarProject\bin\Debug\CarProject.exe.config
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-19\CarProject\obj\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-19\CarProject\obj\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-19\CarProject\bin\Debug\CarProject.exe
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-19\CarProject\bin\Debug\CarProject.pdb
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-19\CarProject\obj\Debug\CarProject.Form1.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-19\CarProject\obj\Debug\CarProject.H_curve.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-19\CarProject\obj\Debug\CarProject.login.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-19\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-19\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-19\CarProject\obj\Debug\CarProject.SplashScreen.resources
+C:\Users\Administrator\Desktop\汽车碰撞上位机- 12-19\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
+D:\研二工程\汽车碰撞使用说明与安装文件\PC软件\汽车碰撞上位机- 12-19\CarProject\bin\Debug\CarProject.exe.config
+D:\研二工程\汽车碰撞使用说明与安装文件\PC软件\汽车碰撞上位机- 12-19\CarProject\obj\Debug\CarProject.exe
+D:\研二工程\汽车碰撞使用说明与安装文件\PC软件\汽车碰撞上位机- 12-19\CarProject\obj\Debug\CarProject.pdb
+D:\ttt\lastcar\Car\CarProject\bin\Debug\CarProject.exe.config
+D:\ttt\lastcar\Car\CarProject\obj\Debug\CarProject.exe
+D:\ttt\lastcar\Car\CarProject\obj\Debug\CarProject.pdb
+D:\ttt\lastcar\Car\CarProject\bin\Debug\CarProject.exe
+D:\ttt\lastcar\Car\CarProject\bin\Debug\CarProject.pdb
+D:\ttt\lastcar\Car\CarProject\obj\Debug\CarProject.Form1.resources
+D:\ttt\lastcar\Car\CarProject\obj\Debug\CarProject.H_curve.resources
+D:\ttt\lastcar\Car\CarProject\obj\Debug\CarProject.login.resources
+D:\ttt\lastcar\Car\CarProject\obj\Debug\CarProject.NetDisconnect.resources
+D:\ttt\lastcar\Car\CarProject\obj\Debug\CarProject.Properties.Resources.resources
+D:\ttt\lastcar\Car\CarProject\obj\Debug\CarProject.SplashScreen.resources
+D:\ttt\lastcar\Car\CarProject\obj\Debug\CarProject.csproj.GenerateResource.Cache
